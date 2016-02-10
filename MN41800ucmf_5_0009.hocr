@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41800ucmf_5_0009.png"; bbox 0 0 2447 3424; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 23 542 887 895">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 23 509 938 895">
+     <span class='ocr_line' id='line_1_1' title="bbox 23 542 887 895; baseline 0 -62"><span class='ocrx_word' id='word_1_1' title='bbox 23 542 887 895; x_wconf 77' lang='lat' dir='ltr'>S‚Aurelius</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 36 1475 834 2222">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 36 1475 834 2222">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 1475 834 1761; baseline 0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 59 1475 586 1760; x_wconf 79' lang='lat' dir='ltr'>omasii</span> <span class='ocrx_word' id='word_1_3' title='bbox 649 1475 834 1761; x_wconf 81' lang='lat' dir='ltr'>ad</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 36 1936 646 2222; baseline -0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 36 1936 646 2222; x_wconf 79' lang='lat' dir='ltr'>alerium</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1228 3424">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1228 3424">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1228 3424; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1228 3424; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 46 2871 324 3150">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 46 2871 324 3150">
+     <span class='ocr_line' id='line_1_5' title="bbox 46 2871 324 3150; baseline 0.011 -3"><span class='ocrx_word' id='word_1_6' title='bbox 46 2871 324 3150; x_wconf 78' lang='lat'>805</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
